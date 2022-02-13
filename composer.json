@@ -21,7 +21,7 @@
         "laravel/socialite": "^5.2.1",
         "laravel/tinker": "^2.5.0",
         "laravel/ui": "^2.5.0",
-        "maatwebsite/excel": "^3.1.26",
+        "maatwebsite/excel": "^3.1",
         "mateusjunges/laravel-acl": "^2.5.1",
         "realrashid/sweet-alert": "^3.2.0",
         "renatomarinho/laravel-page-speed": "^2.0",

@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '825ec9599b23880c4ed40a2c6f4eb45235dc597d',
         'name' => 'softtechit/manyvendor',
         'dev' => true,
     ),
@@ -1164,12 +1164,12 @@
             'dev_requirement' => true,
         ),
         'softtechit/manyvendor' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '825ec9599b23880c4ed40a2c6f4eb45235dc597d',
             'dev_requirement' => false,
         ),
         'spatie/image-optimizer' => array(
